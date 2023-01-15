@@ -1,0 +1,172 @@
+body {
+    background-image: url("https://images4.alphacoders.com/151/151056.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #003366;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-text {
+    width: 400px;
+    height: 60px;
+    padding-top: 15px;
+    margin-top: 15px;
+    text-align: center;
+    background-color: #ff99ff;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 40px;
+    border-radius: 50px;
+    box-shadow: 8px 8px 12px rgb(16, 16, 16);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    width: 500px;
+    height: 470px;
+    border: 10px solid white;
+    border-radius: 50px;
+    margin-top: 50px;
+    background-image: url("https://www.sketchappsources.com/resources/source-image/nyan-cat-artoctober.png");
+    background-repeat: none;
+    background-size: contain;
+    box-shadow: 8px 8px 12px rgb(16, 16, 16);
+}
+
+.text-container {
+    opacity: .9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 470px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: #ff99ff;
+    border: 10px solid white;
+    border-radius: 50px;
+    box-shadow: 8px 8px 12px rgb(16, 16, 16);
+}
+
+.text {
+    background-color: #ff99ff;
+    color: white;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+h1 {
+    text-align: center;
+    color: #102c47;
+    font-weight: bold;
+    width: 800px;
+    border: 10px solid #7193b4;
+    border-radius: 50px;
+    margin-left: 27%;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    width: 200px;
+    height: 50px;
+    background-color: #003366;
+    border: 5px solid white;
+    border-radius: 25px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.iframe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+iframe {
+    box-shadow: 8px 8px 12px rgb(16, 16, 16);
+}
+
+.gallery {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img1 {
+    border: 10px solid white;
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+    background-image: url("https://images.alphacoders.com/255/thumb-1920-255663.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 8px 8px 12px rgb(16, 16, 16);
+}
+
+.img2 {
+    border: 10px solid white;
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+    background-image: url("https://cdn.wallpapersafari.com/35/98/2tSVT4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 8px 8px 12px rgb(16, 16, 16);
+}
+
+.img3 {
+    border: 10px solid white;
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+    background-image: url("https://www.wallpapertip.com/wmimgs/6-66013_nyan-cat.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 8px 8px 12px rgb(16, 16, 16);
+}
+
+.img4 {
+    border: 10px solid white;
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+    background-image: url("https://wallpaperaccess.com/full/6562226.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 8px 8px 12px rgb(16, 16, 16);
+}
